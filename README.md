@@ -23,9 +23,9 @@ one for **economy class** tickets and another for **business class** tickets.
 #### Initial Preprocessing:
 **There was highly noise in the data. So, I have done some cleaning and also drived some relevent featues from the given data**
 
-I drived new featue named class to specify in which class the ticket was booked
+I drived new feature named class to specify in which class the ticket was booked
 
-I drived new new featute named flight by adding ch_code and num_code of the flight
+I drived new new feature named flight by adding ch_code and num_code of the flight
 
 I drived new feature days left by subtracting the booking date from journey date (Booking date was 10/02/2022)
 
